@@ -1,0 +1,26 @@
+h1 {
+  color:red;
+}
+ul {
+    background-color: red;
+    padding:0;
+    margin:0;
+}
+nav.mainNav > .navItem {
+    display: inline-block;
+
+    padding: 20px;
+
+    background: red;
+
+    color: #fff;
+
+}
+
+
+box {
+   height: 50px;
+  width: 50px;
+  color: rgb(199, 30, 30);
+  background-color:#ebebbb;
+}

@@ -1,0 +1,31 @@
+.bg-red {
+  background-color: red;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-blue {
+  background-color: blue;
+}
+
+.color-red {
+  color: red;
+}
+
+.color-blck {
+  color: black;
+}
+
+.color-blue {
+  color: blue;
+}
+.login{
+    border: 1px solid #13855c;
+    border-radius: 5px;
+    padding: 17px;
+    width: 300px;
+    position: absolute;
+    top: 50px;
+    }
